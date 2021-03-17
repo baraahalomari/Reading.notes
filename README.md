@@ -8,19 +8,15 @@
 My accunt : 
 [Bara'ah Alomari](https://github.com/baraahalomari)
 
-## To Developing a growth mindset for us we should
+## That a table of contant:
 
->  Do your best and keep trying  
 
->  Don't combare ourself with others 
+  Assignment | links  |
+  -----------| ------- |
+  Read1      | [read1](Read1) |
+  Read2      | [read2](Read2) |
+  Read3      | [read3](Read3)     |
 
->  We need to grow our brain every day
-
->  Keep challenge yourself
-
->  Believe that you have a capacity to learn and graw
-
-![growthmindset](https://storage.googleapis.com/proudcity/elgl/uploads/2020/08/growth-mindset-brain-300x190.png)
 
 
 
