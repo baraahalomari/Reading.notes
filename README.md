@@ -13,13 +13,14 @@ My accunt :
 
   Assignment | links  |
   -----------| ------- |
-  Read01      | [read1](Read01) |
-  Read02a      | [read2](Read02a) |
-  Read02b      | [read3](Read02b)     |
+  Read01      | [read1](Read01) 
+  Read02a      | [read2](Read02a) 
+  Read02b      | [read3](Read02b)     
   lab01a    |  [lab01a](lab01a) 
   Read03     | [Read03](Read03)
   Read04a     | [Read04a](Read04a)
   Read05       | [Read05](Read05)
+  Read06       |  [Read06](Read06)
 
 
 
