@@ -2,7 +2,7 @@
 
 ## first of all, let me introduce my self
 
-**I'm from irbid, I did my graduation in civil Enginnering from Alhussain Bin Talal University**
+**I'm Bara'ah Alomari I'm 25 old from irbid, I did my graduation in civil Enginnering from Alhussain Bin Talal University**
 
 **but currently studing programming in LTUC**
 My accunt : 
@@ -21,7 +21,7 @@ My accunt :
   Read04a     | [Read04a](Read04a)
   Read05       | [Read05](Read05)
   Read06       |  [Read06](Read06)
-
+  Class01       |  [class01](class01)
 
 
 
