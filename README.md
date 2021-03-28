@@ -15,14 +15,14 @@ My accunt :
 
   Assignment        | links  
   ------------------| -----------------------
-  Read01            | [read1](code102/Read01) 
-  Read02a           | [read2](code102/Read02a) 
-  Read02b           | [read3](code102/Read02b)     
+  Read01            | [The coder's computer](code102/Read01) 
+  Read02a           | [Learning markdown](code102/Read02a) 
+  Read02b           | [Revisions and the cloud](code102/Read02b)     
   lab01a            | [lab01a](code102/lab01a) 
-  Read03            | [read03](code102/Read03)
-  Read04a           | [read04a](code102/Read04a)
-  Read05            | [read05](code102/Read05)
-  Read06            | [read06](code102/Read06)
+  Read03            | [Structure web pages with HTML](code102/Read03)
+  Read04a           | [Programming with javascript](code102/Read04a)
+  Read05            | [Operators and loops](code102/Read05)
+  Read06            | [Design web pages with CSS](code102/Read06)
 
 
 
@@ -30,8 +30,8 @@ My accunt :
 
   Assignment           |   Links
   ---------------------|-----------------------------
-   Class01             |  [class01](code201/class-01)
-   Class02             |  [class02](code201/class-02)
+   Class01             |  [Introductory HTML and Javascript](code201/class-01)
+   Class02             |  [HTML Text, CSS introduction, and basic java script](code201/class-02)
    Class03             |  [class03](code201/class-03)
    Class04             |  [class04](code201/class-04)
    Class05             |  [class05](code201/class-05)
