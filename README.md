@@ -33,7 +33,7 @@ My accunt :
    Class01             |  [Introductory HTML and Javascript](code201/class-01)
    Class02             |  [HTML Text, CSS introduction, and basic java script](code201/class-02)
    Class03             |  [HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03)
-   Class04             |  [class04](code201/class-04)
+   Class04             |  [ HTML Links, JS Functions, and Intro to CSS Layout](code201/class-04)
    Class05             |  [class05](code201/class-05)
    Class06             |  [class06](code201/class-06)
    Class07             |  [class07](code201/class-07)
