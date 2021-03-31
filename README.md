@@ -1,11 +1,13 @@
 # Hello every one..
 
 
-## first of all, let me introduce my self
+## first of all, let me introduce my selfe
 
 **I'm Bara'ah Alomari I'm 25 old from irbid, I did my graduation in civil Enginnering from Alhussain Bin Talal University**
-**but currently studding programming in LTUC**
-My accunt :
+**but currently studing programming in LTUC**
+
+My accaunt :
+
 
 [Bara'ah Alomari](https://github.com/baraahalomari)
 
@@ -34,7 +36,7 @@ My accunt :
    Class02             |  [HTML Text, CSS introduction, and basic java script](code201/class-02)
    Class03             |  [HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03)
    Class04             |  [ HTML Links, JS Functions, and Intro to CSS Layout](code201/class-04)
-   Class05             |  [class05](code201/class-05)
+   Class05             |  [ Images, Color, Text](code201/class-05)
    Class06             |  [class06](code201/class-06)
    Class07             |  [class07](code201/class-07)
    Class08             |  [class08](code201/class-08)
