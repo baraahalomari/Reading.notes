@@ -37,7 +37,7 @@ My accaunt :
    Class03             |  [HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03)
    Class04             |  [ HTML Links, JS Functions, and Intro to CSS Layout](code201/class-04)
    Class05             |  [ Images, Color, Text](code201/class-05)
-   Class06             |  [class06](code201/class-06)
+   Class06             |  [Objects, and the DOM](code201/class-06)
    Class07             |  [class07](code201/class-07)
    Class08             |  [class08](code201/class-08)
    Class09             |  [class09](code201/class-09)
