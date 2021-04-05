@@ -39,7 +39,7 @@ My accaunt :
    Class05             |  [ Images, Color, Text](code201/class-05)
    Class06             |  [Objects, and the DOM](code201/class-06)
    Class07             |  [Object-Oriented Programming, HTML Tables](code201/class-07)
-   Class08             |  [class08](code201/class-08)
+   Class08             |  [CSS Layout](code201/class-08)
    Class09             |  [class09](code201/class-09)
    Class10             |  [class10](code201/class-10)
    Class11             |  [class11](code201/class-11)
