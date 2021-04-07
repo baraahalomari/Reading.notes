@@ -40,7 +40,7 @@ My accaunt :
    Class06             |  [Objects, and the DOM](code201/class-06)
    Class07             |  [Object-Oriented Programming, HTML Tables](code201/class-07)
    Class08             |  [CSS Layout](code201/class-08)
-   Class09             |  [class09](code201/class-09)
+   Class09             |  [ Forms and JS Events](code201/class-09)
    Class10             |  [class10](code201/class-10)
    Class11             |  [class11](code201/class-11)
    Class12             |  [class12](code201/class-12)
