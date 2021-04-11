@@ -42,7 +42,7 @@ My accaunt :
    Class08             |  [CSS Layout](code201/class-08)
    Class09             |  [ Forms and JS Events](code201/class-09)
    Class10             |  [Error Handling & Debugging](code201/class-10)
-   Class11             |  [class11](code201/class-11)
+   Class11             |  [Audio, Video, Images](code201/class-11)
    Class12             |  [class12](code201/class-12)
    Class13             |  [class13](code201/class-13)
    Class14             |  [class14](code201/class-14)
