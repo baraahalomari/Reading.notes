@@ -54,7 +54,8 @@ My accaunt :
   
   Assignment           |   Links
   ---------------------|-----------------------------
-   Class01             |  [State and Props](code301/class1)
+   Class02             |  [Introduction to React and Components](code301)
+   Class01             |  [State and Props](code301/class2)
    Class02             |  [](code301)
    Class03             |  [ ](code301)
    Class04             |  [ ](code301)
