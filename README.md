@@ -58,10 +58,14 @@ My accaunt :
    Class02             |  [State and Props](code301/class2)
    Class03             |  [Passing Functions as Props](code301/code3)
    Class04             |  [React and Forms](code301/class4)
-   Class04             |  [ ](code301)
+   Class05             |  [Putting it all together](code301/class5)
    Class05             |  [](code301)
    Class06             |  [](code301)
    Class07             |  [](code301)
+   Class04             |  [ ](code301)
+   Class05             |  [](code301)
+   Class06             |  [](code301)
+   Class07             |  [](code301) 
 
 
    
