@@ -60,7 +60,7 @@ My accaunt :
    Class04             |  [React and Forms](code301/class4)
    Class05             |  [Putting it all together](code301/class5)
    Class06             |  [NODE.JS](code301/class6)
-   Class06             |  [](code301)
+   Class07             |  [REST](code301/class7)
    Class07             |  [](code301)
    Class04             |  [ ](code301)
    Class05             |  [](code301)
