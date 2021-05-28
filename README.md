@@ -62,11 +62,15 @@ My accaunt :
    Class06             |  [NODE.JS](code301/class6)
    Class07             |  [REST](code301/class7)
    Class08             |  [APIs](code301/class8)
-   Class04             |  [ ](code301)
-   Class05             |  [](code301)
+   Class09             |  [FUNCTIONAL PROGRAMMING ](code301/class9)
+   Class10             |  [In memory storage](code301/class10.md)
+   Class11             |  [Authentication](code301/class11)
+   Class07             |  [](code301) 
    Class06             |  [](code301)
    Class07             |  [](code301) 
-
+   Class07             |  [](code301) 
+   Class06             |  [](code301)
+   Class07             |  [](code301) 
 
    
   ## Code 401 - Advanced Software Development
