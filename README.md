@@ -66,11 +66,10 @@ My accaunt :
    Class10             |  [In memory storage](code301/class10.md)
    Class11             |  [Authentication](code301/class11)
    Class12             |  [Mongo and Mongoose](code301/class12) 
-   Class06             |  [](code301)
-   Class07             |  [](code301) 
-   Class07             |  [](code301) 
-   Class06             |  [](code301)
-   Class07             |  [](code301) 
+   Class13             |  [CRUD](code301/class13)
+   Class14             |  [](code301) 
+   Class15             |  [](code301) 
+
 
    
   ## Code 401 - Advanced Software Development
