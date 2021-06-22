@@ -103,30 +103,30 @@ You can use 5 Whys for troubleshooting, quality improvement, and problem solving
 
 ## How to Use the 5 Whys
 
-1. Assemble a Team
+1- **Assemble a Team**
 
 Include someone to act as a facilitator, who can keep the team focused on identifying effective counter-measures.
 
-2. Define the Problem
+2- **Define the Problem**
 
 observe the problem in action. Discuss it with your team and write a brief, clear problem statement that you all agree on.
 
-3. Ask the First "Why?"
+3- **Ask the First "Why?"**
 
 Ask your team why the problem is occurring.Search for answers that are grounded in fact: they must be accounts of things that have actually happened, not guesses at what might have happened.
 
-4. Ask "Why?" Four More Times
+4- **Ask "Why?" Four More Times**
 
 For each of the answers that you generated in Step 3, ask four further "whys" in succession. Each time, frame the question in response to the answer you've just recorded.
 
-5. Know When to Stop
+5- **Know When to Stop**
 
 if you're not sure that you've uncovered the real root cause, consider using a more in-depth problem-solving technique like Cause and Effect Analysis, Root Cause Analysis, or FMEA.)
 
-6. Address the Root Cause(s)
+6- **Address the Root Cause(s)**
 
 discuss and agree on the counter-measures that will prevent the problem from recurring.
 
-7. Monitor Your Measures
+7- **Monitor Your Measures**
 
 Keep a close watch on how effectively your counter-measures eliminate or minimize the initial problem.
