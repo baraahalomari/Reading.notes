@@ -15,6 +15,7 @@ My accaunt :
 ## Code 102 - Intro to Software Development:
 
 
+
   Assignment        | links  
   ------------------| -----------------------
   Read01            | [The coder's computer](code102/Read01) 
@@ -28,7 +29,11 @@ My accaunt :
 
 
 
+
+
 ## Code 201 - Foundations of Software Development:
+
+
 
   Assignment           |   Links
   ---------------------|-----------------------------
@@ -74,7 +79,8 @@ My accaunt :
 
 
 
- Assignment         |   Links
+
+Assignment         |   Links
 ---------------------|-----------------------------
  Class00             |  [Pre-Work](code401/class0)
  Class01             |  []()
