@@ -78,4 +78,34 @@ Express apps can use any database mechanism supported by Node (Express itself do
 
 # What is NPM?
 
+Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 
+npm consists of three distinct components:
+
+* the website
+* the Command Line Interface (CLI)
+* the registry
+
+We Use npm to :
+
+* Adapt packages of code for your apps, or incorporate packages as they are.
+* Download standalone tools you can use right away.
+* Run packages without downloading using npx.
+* Share code with any npm user, anywhere.
+* Restrict code to specific developers.
+
+# What is TDD?
+
+**“Test-driven development”** refers to a style of programming in which three activities are tightly interwoven: coding, testing and design .
+
+## Benefits
+
+* many teams report significant reductions in defect rates, at the cost of a moderate increase in initial development effort
+
+* the same teams tend to report that these overheads are more than offset by a reduction in effort in projects’ final phases
+
+* although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling
+
+# CI/CD
+
+The "CI" in CI/CD always refers to continuous integration, which is an automation process for developers. Successful CI means new code changes to an app are regularly built, tested, and merged to a shared repository. It’s a solution to the problem of having too many branches of an app in development at once that might conflict with each other.
