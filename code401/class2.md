@@ -32,3 +32,50 @@ SOAP and REST are two API styles that approach the question of data transmission
 **Routing** : refers to how an application’s endpoints (URIs) respond to client requests.
 
 **WRRC** : web request/response cycle traces how a user’s request flows through the app.
+
+# An introduction to NodeJS and Express
+
+**Node** : is an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. 
+
+Benefits of Node :
+
+>  Code is written in "plain old JavaScript".
+> The node package manager (NPM) provides access to hundreds of thousands of reusable packages. 
+> It has a very active third party ecosystem and developer community.
+> Node.js is portable. It is available on Microsoft Windows, macOS, Linux, Solaris, FreeBSD, OpenBSD, WebOS, and NonStop OS. 
+
+**Express** : is the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks.
+
+Benefits of Express:
+
+> Write handlers for requests with different HTTP verbs at different URL paths (routes).
+> Integrate with "view" rendering engines in order to generate responses by inserting data into templates.
+> Add additional request processing "middleware" at any point within the request handling pipeline.
+
+## Importing and creating modules
+
+A module is a JavaScript library/file that you can import into other code using Node's require() function. Express itself is a module, as are the middleware and database libraries that we use in our Express applications.
+
+## Using asynchronous APIs
+
+JavaScript code frequently uses asynchronous rather than synchronous APIs for operations that may take some time to complete. A synchronous API is one in which each operation must complete before the next operation can start.
+
+## Using middleware
+
+Middleware is used extensively in Express apps, for tasks from serving static files to error handling, to compressing HTTP responses. Whereas route functions end the HTTP request-response cycle by returning some response to the HTTP client, middleware functions typically perform some operation on the request or response and then call the next function in the "stack", which might be more middleware or a route handler. The order in which middleware is called is up to the app developer.
+
+## Handling errors
+
+Errors are handled by one or more special middleware functions that have four arguments, instead of the usual three: 
+* err
+* req
+* res
+* next
+
+## Using databases
+
+Express apps can use any database mechanism supported by Node (Express itself doesn't define any specific additional behavior/requirements for database management). There are many options, including PostgreSQL, MySQL, Redis, SQLite, MongoDB, etc.
+
+# What is NPM?
+
+
