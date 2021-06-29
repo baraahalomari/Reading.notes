@@ -87,7 +87,7 @@ Assignment         |   Links
  Class01             |  [Node Ecosystem, TDD, CI/CD](code401/class1)
  Class02             |  [Express](code401/class2)
  Class03             |  [Express REST API](code401/class3)
- Class04             |  []()
+ Class04             |  [Data Modeling](code401/class4)
  Class05             |  []()
  Class06             |  []()
  Class07             |  []()
