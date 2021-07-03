@@ -89,7 +89,7 @@ Assignment         |   Links
  Class03             |  [Express REST API](code401/class3)
  Class04             |  [Data Modeling](code401/class4)
  Class05             |  [Linked Lists](code401/class5)
- Class06             |  []()
+ Class06             |  [Authentication](code401/class6)
  Class07             |  []()
  Class08             |  []()
  Class09             |  []()
