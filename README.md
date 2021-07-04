@@ -90,7 +90,7 @@ Assignment         |   Links
  Class04             |  [Data Modeling](code401/class4)
  Class05             |  [Linked Lists](code401/class5)
  Class06             |  [Authentication](code401/class6)
- Class07             |  []()
+ Class07             |  [Bearer Authorization](code401/class7)
  Class08             |  []()
  Class09             |  []()
  Class10             |  []()
