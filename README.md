@@ -91,7 +91,7 @@ Assignment         |   Links
  Class05             |  [Linked Lists](code401/class5)
  Class06             |  [Authentication](code401/class6)
  Class07             |  [Bearer Authorization](code401/class7)
- Class08             |  []()
+ Class08             |  [Access Control (ACL)](code401/class8)
  Class09             |  []()
  Class10             |  []()
  Class11             |  []()
