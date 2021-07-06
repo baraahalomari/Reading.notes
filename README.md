@@ -92,7 +92,7 @@ Assignment         |   Links
  Class06             |  [Authentication](code401/class6)
  Class07             |  [Bearer Authorization](code401/class7)
  Class08             |  [Access Control (ACL)](code401/class8)
- Class09             |  []()
+ Class09             |  [SQL](code401/class9)
  Class10             |  []()
  Class11             |  []()
  Class12             |  []() 
