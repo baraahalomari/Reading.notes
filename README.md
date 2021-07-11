@@ -95,7 +95,7 @@ Assignment         |   Links
  Class09             |  [SQL](code401/class9)
  Class10             |  [Stacks and Queues](code401/class10)
  Class11             |  [Event Driven Applications](code401/class11)
- Class12             |  []() 
+ Class12             |  [Socket.io](code401/class12) 
  Class13             |  []()
  Class14             |  []()
  Class15             |  []() 
