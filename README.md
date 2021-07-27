@@ -102,11 +102,18 @@ Assignment         |   Links
  Class16             |  [Cloud Servers](code401/class16)
  Class17             |  [S3 and Lambda](code401/class17)
  Class18             |  [API, Dynamo and Lambda](code401/class18) 
- Class19             |  []()
+ Class19             |  [Events](code401/class19)
  Class20             |  []()
  Class21             |  []() 
  Class22             |  []()
-
+ Class23             |  []()
+ Class24             |  []()
+ Class25             |  []() 
+ Class26             |  []()
+ Class27             |  []()
+ Class28             |  []()
+ Class29             |  []() 
+ Class30             |  []()
  
 
 
