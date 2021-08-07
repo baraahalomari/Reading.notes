@@ -103,7 +103,7 @@ Assignment         |   Links
  Class17             |  [S3 and Lambda](code401/class17)
  Class18             |  [API, Dynamo and Lambda](code401/class18) 
  Class19             |  [Events](code401/class19)
- Class20             |  []()
+ Class26             |  [Component Based UI](code401/class26)
  Class21             |  []() 
  Class22             |  []()
  Class23             |  []()
