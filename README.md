@@ -106,7 +106,7 @@ Assignment         |   Links
  Class26             |  [Component Based UI](code401/class26)
  Class27             |  [useState() Hook](code401/class27) 
  Class28             |  [Component Lifecycle](code401/class28)
- Class29             |  []()
+ Class29             |  [Advanced State with Reducers](code401/class29)
  Class30             |  []()
  Class25             |  []() 
  Class26             |  []()
