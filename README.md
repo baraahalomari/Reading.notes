@@ -107,7 +107,7 @@ Assignment         |   Links
  Class27             |  [useState() Hook](code401/class27) 
  Class28             |  [Component Lifecycle](code401/class28)
  Class29             |  [Advanced State with Reducers](code401/class29)
- Class30             |  []()
+ Class30             |  [Hash Tables](code401/class30)
  Class25             |  []() 
  Class26             |  []()
  Class27             |  []()
