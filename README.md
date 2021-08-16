@@ -110,7 +110,7 @@ Assignment         |   Links
  Class30             |  [Hash Tables](code401/class30)
  Class31             |  [Context API](code401/class31) 
  Class32             |  [Context API - Behaviors](code401/class32)
- Class33             |  [&lt;Login /> and &lt;Auth />]()
+ Class33             |  [&lt;Login /> and &lt;Auth />](code401/class33)
  Class28             |  []()
  Class29             |  []() 
  Class30             |  []()
