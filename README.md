@@ -111,7 +111,7 @@ Assignment         |   Links
  Class31             |  [Context API](code401/class31) 
  Class32             |  [Context API - Behaviors](code401/class32)
  Class33             |  [&lt;Login /> and &lt;Auth />](code401/class33)
- Class28             |  []()
+ Class34             |  [API Integration](code401/class34)
  Class29             |  []() 
  Class30             |  []()
  
