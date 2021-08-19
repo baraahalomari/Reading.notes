@@ -113,7 +113,7 @@ Assignment         |   Links
  Class33             |  [&lt;Login /> and &lt;Auth />](code401/class33)
  Class34             |  [API Integration](code401/class34)
  Class35             |  [Graphs](code401/class35) 
- Class30             |  []()
+ Class36             |  [Application State with Redux]()
  Class29             |  []() 
  Class30             |  []()
  Class30             |  []()
