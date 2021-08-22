@@ -114,7 +114,7 @@ Assignment         |   Links
  Class34             |  [API Integration](code401/class34)
  Class35             |  [Graphs](code401/class35) 
  Class36             |  [Application State with Redux](code401/class36)
- Class29             |  []() 
+ Class37             |  [Redux - Combined Reducers](code401/class37) 
  Class30             |  []()
  Class30             |  []()
  Class30             |  []()
