@@ -116,7 +116,7 @@ Assignment         |   Links
  Class36             |  [Application State with Redux](code401/class36)
  Class37             |  [Redux - Combined Reducers](code401/class37) 
  Class38             |  [Redux - Asynchronous Actions](code401/class38)
- Class30             |  []()
+ Class39             |  [Redux - Additional Topics](code401/class39)
  Class30             |  []()
  
 
