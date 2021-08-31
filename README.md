@@ -2,7 +2,8 @@
 
 ## Hello every one..
 
-## first of all, let me introduce my selfe
+**first of all, let me introduce my selfe**
+
 
 **I'm Bara'ah Alomari I'm 25 old from irbid, I did my graduation in civil Enginnering from Alhussain Bin Talal University**
 **but currently studing programming in LTUC**
@@ -118,8 +119,8 @@ Assignment         |   Links
  Class38             |  [Redux - Asynchronous Actions](code401/class38)
  Class39             |  [Redux - Additional Topics](code401/class39)
  Class41             |  [React Native](code401/class41)
- Class30             |  []()
- Class30             |  []()
+ Class42             |  [Ethics in Tech](code401/class42)
+
  
 
 
