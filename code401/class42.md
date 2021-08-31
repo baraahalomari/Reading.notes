@@ -1,13 +1,13 @@
 # Ethics in Tech
 
-## Article 1: The Code I'm Still Ashamed Of
+## The Code I'm Still Ashamed Of
 
 * Really interesting, and heartbreaking, about the effects of a few lines of code as to the final product and outcome of the situation.
 * "As developers, we are often one of the last lines of defense against potentially dangerous and unethical practices." This quote really stood out to me, and I haven't necessarily thought of it that way before, that we are one of the last passes through before something gets put out into the world.
 * That is definitely something to be taken with great weight, and to constantly assess the impact the lines of code we are writing will have.
 * "Take a stand and ensure that our ethics are ever present in our code." This was another piece of the article that stood out to me, keeping aware and making sure that we're always considering what's at play. That we don't just write lines of code as prescribed, but that we think at a high level what they are doing.
 
-## Article 2: Big Data is Our Civil Rights Issue 
+##  Big Data is Our Civil Rights Issue 
 
 * Interesting comment about re-framing big data - "Big data doesn't have to be all that big. Rather, it's about reconsideration of the fundamental economics of analyzing data."
 * You decide what data is about the moment you define it's schema.
